@@ -1,4 +1,4 @@
-# lua-resty-cache_stats
+# lua-resty-cache-stats
 
 A Lua module for tracking and reporting cache statistics in Nginx, with support for periodic statistics recording using timers.
 

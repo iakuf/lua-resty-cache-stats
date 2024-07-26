@@ -7,7 +7,7 @@ A Lua module for tracking and reporting cache statistics in Nginx, with support 
 To install this module, you can use the OpenResty Package Manager (opm):
 
 ```sh
-opm get yourusername/lua-resty-cache_stats
+opm get iakuf/lua-resty-cache-stats
 ```
 
 ## Dependencies
